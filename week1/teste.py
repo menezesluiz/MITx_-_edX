@@ -64,6 +64,8 @@ for i in range(0, end):
 print(z)
 """
 
+
+
 x = int(input())
 ans = 0
 while ans ** 3 < x:
