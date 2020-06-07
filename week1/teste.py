@@ -64,3 +64,17 @@ for i in range(0, end):
 print(z)
 """
 
+x = int(input())
+ans = 0
+while ans ** 3 < x:
+    ans = ans + 1
+if ans ** 3 != x:
+    print(str(x) + " não é um cubo perfeito!")
+else:
+    print("A raiz cubica é " + str(x) + " is " + str(ans))
+
+'''
+cubo perfeito é quando a raiz cubica da um número tem-se como resultado
+um número inteiro. 
+2³ = 8,  4³ = 64, 5³ = 125
+'''
