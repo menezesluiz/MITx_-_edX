@@ -65,7 +65,7 @@ print(z)
 """
 
 
-
+"""
 x = int(input())
 ans = 0
 while ans ** 3 < x:
@@ -80,3 +80,22 @@ cubo perfeito é quando a raiz cubica da um número tem-se como resultado
 um número inteiro. 
 2³ = 8,  4³ = 64, 5³ = 125
 '''
+"""
+"""
+iteration = 0
+count = 0
+while iteration < 5:
+    for letter in "hello, world":
+        count += 1
+    print("Iteration " + str(iteration) + "; count is: " + str(count))
+    iteration += 1
+"""
+"""
+count = 0
+phrase = "hello, world"
+for iteration in range(5):
+    while True:
+        count += len(phrase)
+        break
+    print("Iteration " + str(iteration) + "; count is: " + str(iteration))
+"""
