@@ -36,11 +36,21 @@ Se você tiver tempo, volte a esse problema depois de fazer uma pausa
 e limpar a cabeça.
 """
 
+# primeiro passo, vamos definir as variáveis
+
+# a variável 's' é definida no problema
 s = 'azcbobobegghakl'
+
+# variável 'indice' será usada como contador
 indice = 0
+
+# variável para armazenar as palavras formadas para comparativo
 palavra = ""
+
+# variável de resposta final
 maior_palavra = ""
 
+# será utilizado um laço "while" para verificar a solução
 while indice < len(s) - 1:
     if palavra == "":
         palavra = s[indice]
