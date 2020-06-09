@@ -37,8 +37,24 @@ e limpar a cabeça.
 """
 
 s = 'azcbobobegghakl'
-novaS = ""
+indice = 0
+palavra = ""
+maior_palavra = ""
 
-for i in range(len(s)):
-    if s[i] > 'a':
-        novaS = novaS + s[i]
+while indice < len(s) - 1:
+    if palavra == "":
+        palavra = s[indice]
+        if len(palavra) > len(maior_palavra):
+            maior_palavra = palavra
+
+    if s[indice] <= s[indice + 1]:
+        palavra += s[indice + 1]
+        if len(palavra) > len(maior_palavra):
+            maior_palavra = palavra
+
+    else:
+        palavra = ""
+
+    indice += 1
+
+print(maior_palavra)
