@@ -52,6 +52,7 @@ maior_palavra = ""
 
 # será utilizado um laço "while" para verificar a solução
 while indice < len(s) - 1:
+
     if palavra == "":
         palavra = s[indice]
         if len(palavra) > len(maior_palavra):
@@ -63,8 +64,8 @@ while indice < len(s) - 1:
             maior_palavra = palavra
 
     else:
-        palavra = ""
+        palavra = ""  # caso nenhuma das condições acima seja satisfeita
 
-    indice += 1
+    indice += 1  # incremento do contador
 
 print(maior_palavra)
