@@ -19,8 +19,7 @@ Here is a transcript of an example session:
 #  declarar frase inicial
 print("Please think of a number between 0 and 100!")
 
-#  declarar as variáveis
-
+#  declarar as variáveis máxima e mínima (limites)
 low = 0
 high = 100
 
