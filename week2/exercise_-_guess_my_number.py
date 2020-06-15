@@ -28,7 +28,7 @@ while True:
     print("Is your secret number " + str(correct) + "?")
     x = input("Enter 'h' to indicate the guess is too high." +
               " Enter 'l' to indicate the guess is too low." +
-              " Enter 'c' to indicate I guessed correctly.")
+              " Enter 'c' to indicate I guessed correctly. ")
     if x == 'c':
         print("Game over. Your secret number was: ", str(correct))
         break
