@@ -155,3 +155,10 @@ def f(x, y):
     '''
     x + y - 2
 """
+
+x = 'brasil'
+z = 'canada'
+y = 'austrália'
+
+print(z + x + y)
+
