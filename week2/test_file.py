@@ -82,3 +82,8 @@ if abs(guess ** 2 - x) >= epsilon:
 else:
     print('suceceeded: ' + str(guess))
 """
+
+"""
+def square(x):
+    return(x )
+"""
