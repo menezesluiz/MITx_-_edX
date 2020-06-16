@@ -87,3 +87,15 @@ else:
 def square(x):
     return(x )
 """
+
+
+"""
+a = int(input())
+b = int(input())
+c = int(input())
+x = int(input())
+
+def evalQuadratic(a, b, c, x):
+    return(a * (x ** 2) + (b * x) + c)
+print(evalQuadratic(a, b, c, x))
+"""
