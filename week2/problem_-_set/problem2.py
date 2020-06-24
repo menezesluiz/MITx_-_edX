@@ -31,3 +31,19 @@ Updated balance each month = (Monthly unpaid balance) + (Monthly interest rate
 x Monthly unpaid balance)
 """
 
+mon_patRate = 0
+balance_beg = balance
+mon_intRate = annualInterestRate / 12
+
+while balance > 0:
+    for i in range(12):
+        balance = balance - mon_patRate + (
+                    (balance - mon_patRate) * mon_intRate)
+
+    if balance > 0:
+        mon_patRate += 10
+        balance = balance_beg
+    elif balance < 0:
+        break
+
+print("Lowest Payment: ", mon_patRate)
