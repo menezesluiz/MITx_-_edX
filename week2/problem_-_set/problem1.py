@@ -44,4 +44,3 @@ for i in range(12):
     total = round(balance, 2)
 
 print("Remaining balance: ", str(total))
-
