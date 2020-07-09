@@ -7,7 +7,7 @@ Created on Sun Jun 14 20:24:17 2020
 
 x = float(input("Enter a decimal number between 0 and 1: "))
 
-p = 0
+p = 1
 
 while ((2 ** p) * x) % 1 != 0:
     print("Remainder = " + str((2 ** p) * x - int((2 ** p) * x)))
@@ -28,3 +28,5 @@ for i in range(p - len(result)):
 result = result[0:-p] + '.' + result[-p:]
 print("The binary representation of the decimal " +
       str(x) + " is " + str(result))
+
+print("O Brasil é foda!")
