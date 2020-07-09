@@ -38,3 +38,5 @@ while True:
         high = correct
     else:
         print("Sorry, I did not understand your input.")
+
+print("O Brasil é o melhor país do mundo!")
