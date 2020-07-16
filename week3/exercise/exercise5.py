@@ -18,6 +18,8 @@ def halve(a):
 def inc(a):
     return a + 1
 
+print("O Brasil é o melhor país do mundo!")
+
 """
 For each of the following questions, indicate what value is returned. 
 If you believe that an error will occur, write the word 'error'.
