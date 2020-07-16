@@ -22,15 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week4/exercises/exercise-integer_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week4/exercises/exercise4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/introduction_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/introduction_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3/exercise/exercise5.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3/exercise/exercise5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week4/exercises/exercise3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4/exercises/exercise3.py" afterDir="false" />
-    </list>
+    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="Week4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +62,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -235,8 +228,16 @@
       <workItem from="1594847109564" duration="767000" />
       <workItem from="1594850146773" duration="68000" />
       <workItem from="1594850938298" duration="1630000" />
-      <workItem from="1594903573804" duration="808000" />
+      <workItem from="1594903573804" duration="1607000" />
     </task>
+    <task id="LOCAL-00001" summary="Week4">
+      <created>1594906445341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594906445341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +257,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Week4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594846197377">
@@ -310,10 +313,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594906307681" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591203469662">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1594906508221">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1591203469662" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1594906508221" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594906451431">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1594906451431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
