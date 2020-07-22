@@ -22,7 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX" />
+    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX">
+      <change afterPath="$PROJECT_DIR$/week4/exercises/exercise6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/exercises/exercise7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4/ps4a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4/ps4b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4/test_ps4a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4/words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +79,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -82,7 +90,7 @@
     </option>
     <option name="myUseExistingConsole" value="true" />
   </component>
-  <component name="RunManager" selected="Python.exercise-integer_division">
+  <component name="RunManager" selected="Python tests.Doctests in ps4a">
     <configuration name="exercise-integer_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduction_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduction_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,36 +143,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4/exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/exercise/exercise5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/exercises/exercise6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise_oddTuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="introduction_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3/exercise/exercise_oddTuples.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -193,13 +179,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctests in ps4a" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="introduction_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4/ps4a.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in ps4a" />
+        <item itemvalue="Python.exercise6" />
+        <item itemvalue="Python.exercise6" />
         <item itemvalue="Python.exercise-integer_division" />
         <item itemvalue="Python.exercise4" />
-        <item itemvalue="Python.exercise5" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +233,11 @@
       <workItem from="1594847109564" duration="767000" />
       <workItem from="1594850146773" duration="68000" />
       <workItem from="1594850938298" duration="1630000" />
-      <workItem from="1594903573804" duration="2233000" />
+      <workItem from="1594903573804" duration="6939000" />
+      <workItem from="1595127366839" duration="649000" />
+      <workItem from="1595188559037" duration="204000" />
+      <workItem from="1595353508609" duration="71000" />
+      <workItem from="1595353594801" duration="2759000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -244,7 +253,35 @@
       <option name="project" value="LOCAL" />
       <updated>1594909197489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MITx_edX">
+      <created>1594909260990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594909260991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="MITx_edX">
+      <created>1594909292029</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594909292029</updated>
+    </task>
+    <task id="LOCAL-00005" summary="MITx_edX">
+      <created>1594909312115</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594909312115</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MITx_edX">
+      <created>1594909343493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594909343493</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +306,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="MITx_edX" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1818" y="254" key="#Notifications" timestamp="1595354008865">
+      <screen x="1280" y="0" width="1600" height="860" />
+    </state>
+    <state x="1818" y="254" key="#Notifications/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595354008865" />
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594846197377">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -281,54 +322,56 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="579" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594846241888" />
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1594906269778">
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594906269778" />
-    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1594906269778">
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594906269778" />
-    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1594906269777">
+    <state width="1557" height="276" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1594953318839">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594906269777" />
-    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1594906269778">
+    <state width="1557" height="276" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1594953318839" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594906269778" />
-    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1594906269627">
+    <state width="1557" height="276" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594906269627" />
-    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1594906269626">
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1594906269626" />
-    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1594906269626">
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1594906269626" />
-    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1594906269627">
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1594953318840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1594906269627" />
-    <state x="380" y="173" key="IDE.errors.dialog" timestamp="1594851237094">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1594953318840" />
+    <state x="1660" y="173" key="IDE.errors.dialog" timestamp="1595355394433">
+      <screen x="1280" y="0" width="1600" height="860" />
     </state>
+    <state x="1660" y="173" key="IDE.errors.dialog/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595355394433" />
     <state x="380" y="173" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1594851237094" />
-    <state x="430" y="134" key="SettingsEditor" timestamp="1594906307681">
+    <state x="1710" y="134" key="SettingsEditor" timestamp="1595353627337">
+      <screen x="1280" y="0" width="1600" height="860" />
+    </state>
+    <state x="1710" y="134" key="SettingsEditor/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595353627337" />
+    <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1594909348162">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1594906307681" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1594909202546">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1594909348162" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594909320971">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1594909202546" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594906451431">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1594906451431" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1594909320971" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,6 +389,8 @@
     <SUITE FILE_PATH="coverage/MITx_edX$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1594845100813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1594847024465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
     <SUITE FILE_PATH="coverage/MITx_edX$test.coverage" NAME="test Coverage Results" MODIFIED="1594851264149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_ps4a.coverage" NAME="Doctests in ps4a Coverage Results" MODIFIED="1594930014661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1594919134232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise_oddTuples.coverage" NAME="exercise_oddTuples Coverage Results" MODIFIED="1594846912162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1594845495727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
   </component>
