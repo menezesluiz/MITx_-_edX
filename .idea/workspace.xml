@@ -23,13 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX">
-      <change afterPath="$PROJECT_DIR$/week5/problem_-_set/problem1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/problem_-_set/ps6/ps6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/problem_-_set/ps6/story.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5/problem_-_set/ps6/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/exercise/exercise1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/problem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/problem4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/problem5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/problem6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/problem7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exame/usresident.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/EMACS editor - Tutorial Pt-Br.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Thomas H. Cormen, Clara Lee, Erica Lin - Introduction to algorithms. Instructor’s manual-The MIT Press_ McGraw-Hill Higher Education (2005).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/vim-avancado.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/vim-basico.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/vim-medio.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/exercise/exercise_biggest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6/exercise/exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/introduction_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/introduction_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5/file/code.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5/file/code.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +91,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -93,7 +102,6 @@
       </console-settings>
     </option>
     <option name="myShowDebugConsoleByDefault" value="false" />
-    <option name="myIpythonEnabled" value="false" />
     <option name="myUseExistingConsole" value="true" />
   </component>
   <component name="RunManager" selected="Python.exercise1">
@@ -211,6 +219,9 @@
       <module name="introduction_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -266,7 +277,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -300,7 +311,12 @@
       <workItem from="1595387324332" duration="44000" />
       <workItem from="1595455844577" duration="3092000" />
       <workItem from="1595528669634" duration="3533000" />
-      <workItem from="1595859015847" duration="1928000" />
+      <workItem from="1595859015847" duration="3265000" />
+      <workItem from="1595983871691" duration="234000" />
+      <workItem from="1595984124266" duration="670000" />
+      <workItem from="1596632518691" duration="808000" />
+      <workItem from="1596633331995" duration="1483000" />
+      <workItem from="1596751001270" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -351,11 +367,18 @@
       <option name="project" value="LOCAL" />
       <updated>1595473528240</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="MITx_edX">
+      <created>1595877632686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1595877632686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -443,19 +466,22 @@
     </state>
     <state x="1660" y="173" key="IDE.errors.dialog/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595355394433" />
     <state x="380" y="173" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1594851237094" />
-    <state x="1710" y="134" key="SettingsEditor" timestamp="1595387248910">
-      <screen x="1280" y="0" width="1600" height="860" />
+    <state x="367" y="18" key="SettingsEditor" timestamp="1596634971596">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="1710" y="134" key="SettingsEditor/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595387248910" />
+    <state x="367" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596634971596" />
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
-    <state x="1672" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595473542264">
-      <screen x="1280" y="0" width="1600" height="860" />
+    <state x="1416" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595877646583">
+      <screen x="1024" y="0" width="1600" height="860" />
     </state>
+    <state x="1416" y="163" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877646583" />
     <state x="1672" y="163" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473542264" />
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1594909348162" />
-    <state x="1889" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595473531549">
-      <screen x="1280" y="0" width="1600" height="860" />
+    <state x="1633" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595877637689">
+      <screen x="1024" y="0" width="1600" height="860" />
     </state>
+    <state x="1633" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877637689" />
     <state x="1889" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473531549" />
     <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1594909320971" />
     <state x="1721" y="156" width="700" height="530" key="recent.locations.popup" timestamp="1595456047629">
@@ -479,17 +505,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1594919134232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1594845100813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise_integer_division.coverage" NAME="exercise-integer_division Coverage Results" MODIFIED="1594906269557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise_oddTuples.coverage" NAME="exercise_oddTuples Coverage Results" MODIFIED="1594846912162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1594847024465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$test.coverage" NAME="test Coverage Results" MODIFIED="1594851264149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$code.coverage" NAME="code Coverage Results" MODIFIED="1595456714560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/file" />
+    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_ps4a.coverage" NAME="Doctests in ps4a Coverage Results" MODIFIED="1594930014661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
     <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_exercise_6.coverage" NAME="Doctests in exercise_6 Coverage Results" MODIFIED="1595385783269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
     <SUITE FILE_PATH="coverage/MITx_edX$batteries.coverage" NAME="batteries Coverage Results" MODIFIED="1595456004269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1594845100813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1594847024465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$polysum_grader.coverage" NAME="polysum_grader Coverage Results" MODIFIED="1595385950865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$test.coverage" NAME="test Coverage Results" MODIFIED="1594851264149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_ps4a.coverage" NAME="Doctests in ps4a Coverage Results" MODIFIED="1594930014661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1594919134232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise_oddTuples.coverage" NAME="exercise_oddTuples Coverage Results" MODIFIED="1594846912162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1594845495727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
-    <SUITE FILE_PATH="coverage/MITx_edX$code.coverage" NAME="code Coverage Results" MODIFIED="1595456714560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/file" />
+    <SUITE FILE_PATH="coverage/MITx_edX$polysum_grader.coverage" NAME="polysum_grader Coverage Results" MODIFIED="1595385950865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
   </component>
 </project>
