@@ -23,19 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX">
-      <change afterPath="$PROJECT_DIR$/Final Exame/problem3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exame/problem4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exame/problem5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exame/problem6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exame/problem7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exame/usresident.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/EMACS editor - Tutorial Pt-Br.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/Thomas H. Cormen, Clara Lee, Erica Lin - Introduction to algorithms. Instructor’s manual-The MIT Press_ McGraw-Hill Higher Education (2005).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/vim-avancado.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/vim-basico.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/books/vim-medio.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/exercise/exercise_biggest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week6/exercise/exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/codes/codigos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/exercise/codigos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/introduction_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/introduction_python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -69,7 +58,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="169f2c83-1b88-4e6d-8946-e26b6daaee5d" />
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="4dac0ac5-1a5f-47a2-9b30-b74057f52655" />
   <component name="ProjectId" id="1colvlrj2DaB31162nZIpiIP6Qy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,7 +96,7 @@
     <option name="myShowDebugConsoleByDefault" value="false" />
     <option name="myUseExistingConsole" value="true" />
   </component>
-  <component name="RunManager" selected="Python.exercise1">
+  <component name="RunManager" selected="Python.codigos (1)">
     <configuration name="MITx_edX" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="introduction_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,28 +141,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="archive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="introduction_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/file" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/file/archive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="introduction_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +155,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/file/code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="codigos (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="introduction_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/codes/codigos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="codigos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="introduction_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/exercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/exercise/codigos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,47 +245,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="introduction_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5/exercise/exercise3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.MITx_edX" />
       <item itemvalue="Python.code" />
-      <item itemvalue="Python.archive" />
-      <item itemvalue="Python.exercise3" />
       <item itemvalue="Python.coordinate" />
       <item itemvalue="Python.exercise1" />
+      <item itemvalue="Python.codigos" />
+      <item itemvalue="Python.codigos (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.codigos (1)" />
+        <item itemvalue="Python.codigos" />
         <item itemvalue="Python.exercise1" />
         <item itemvalue="Python.code" />
         <item itemvalue="Python.coordinate" />
-        <item itemvalue="Python.exercise3" />
-        <item itemvalue="Python.archive" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -317,6 +303,7 @@
       <workItem from="1596632518691" duration="808000" />
       <workItem from="1596633331995" duration="1483000" />
       <workItem from="1596751001270" duration="417000" />
+      <workItem from="1597259042395" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -378,7 +365,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -505,17 +492,17 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1594919134232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
     <SUITE FILE_PATH="coverage/MITx_edX$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1594845100813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise_integer_division.coverage" NAME="exercise-integer_division Coverage Results" MODIFIED="1594906269557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise_oddTuples.coverage" NAME="exercise_oddTuples Coverage Results" MODIFIED="1594846912162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1594847024465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$test.coverage" NAME="test Coverage Results" MODIFIED="1594851264149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
     <SUITE FILE_PATH="coverage/MITx_edX$code.coverage" NAME="code Coverage Results" MODIFIED="1595456714560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5/file" />
-    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_ps4a.coverage" NAME="Doctests in ps4a Coverage Results" MODIFIED="1594930014661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
-    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_exercise_6.coverage" NAME="Doctests in exercise_6 Coverage Results" MODIFIED="1595385783269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$batteries.coverage" NAME="batteries Coverage Results" MODIFIED="1595456004269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
-    <SUITE FILE_PATH="coverage/MITx_edX$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1594845495727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
     <SUITE FILE_PATH="coverage/MITx_edX$polysum_grader.coverage" NAME="polysum_grader Coverage Results" MODIFIED="1595385950865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise6.coverage" NAME="exercise6 Coverage Results" MODIFIED="1594919134232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
+    <SUITE FILE_PATH="coverage/MITx_edX$test.coverage" NAME="test Coverage Results" MODIFIED="1594851264149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_exercise_6.coverage" NAME="Doctests in exercise_6 Coverage Results" MODIFIED="1595385783269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$Doctests_in_ps4a.coverage" NAME="Doctests in ps4a Coverage Results" MODIFIED="1594930014661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/problem_-_set/ProblemSet4" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise_oddTuples.coverage" NAME="exercise_oddTuples Coverage Results" MODIFIED="1594846912162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise4.coverage" NAME="exercise4 Coverage Results" MODIFIED="1594845495727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise_integer_division.coverage" NAME="exercise-integer_division Coverage Results" MODIFIED="1594906269557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4/exercises" />
+    <SUITE FILE_PATH="coverage/MITx_edX$exercise5.coverage" NAME="exercise5 Coverage Results" MODIFIED="1594847024465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3/exercise" />
+    <SUITE FILE_PATH="coverage/MITx_edX$batteries.coverage" NAME="batteries Coverage Results" MODIFIED="1595456004269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/exercise" />
   </component>
 </project>
