@@ -17,3 +17,5 @@ reinforce your understanding of basic Python expressions.
 
 """
 
+#  exercise 01
+
