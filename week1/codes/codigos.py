@@ -1,3 +1,7 @@
+"""
+Vídeo sobre variáveis e as melhores práticas para se trabalhar com elas.
+"""
+
 # Vídeo: Bindings
 
 x = 2
