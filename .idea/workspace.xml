@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX">
-      <change beforePath="$PROJECT_DIR$/week1/codes/bindings.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/codes/V01_bindings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/codes/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/codes/V02_strings.py" afterDir="false" />
-    </list>
+    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_edX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +294,7 @@
       <workItem from="1596632518691" duration="808000" />
       <workItem from="1596633331995" duration="1483000" />
       <workItem from="1596751001270" duration="417000" />
-      <workItem from="1597259042395" duration="3372000" />
+      <workItem from="1597259042395" duration="3982000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -383,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597262322527</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="MITx_edX">
+      <created>1597262434012</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597262434012</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,18 +489,18 @@
     <state x="1710" y="134" key="SettingsEditor/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595387248910" />
     <state x="367" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596634971596" />
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597262331943">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597262440271">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1416" y="163" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877646583" />
     <state x="1672" y="163" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473542264" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597262331943" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597262325152">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597262440271" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597262436184">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1633" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877637689" />
     <state x="1889" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473531549" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597262325152" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597262436184" />
     <state x="1721" y="156" width="700" height="530" key="recent.locations.popup" timestamp="1595456047629">
       <screen x="1280" y="0" width="1600" height="860" />
     </state>
