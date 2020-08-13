@@ -18,3 +18,16 @@ reinforce your understanding of basic Python expressions.
 """
 
 #  exercise 01
+print("a" + 'bc')
+
+print(3 * 'bc')
+
+# print('3' * 'bc')  # Essa vai apresentar erro
+
+print('abcd'[2])
+
+print('abcd'[0:2])
+
+print('abcd'[:2])
+
+print('abcd'[2:])
