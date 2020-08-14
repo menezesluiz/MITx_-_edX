@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_-_edX">
+      <change afterPath="$PROJECT_DIR$/week1/codes/V03_input-output.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/exercise/exercise02_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week1/exercise/exercise02_1_Note" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/exercise/exercise01.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/exercise/exercise01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +95,7 @@
     <option name="myShowDebugConsoleByDefault" value="false" />
     <option name="myUseExistingConsole" value="true" />
   </component>
-  <component name="RunManager" selected="Python.exercise01">
+  <component name="RunManager" selected="Python.exercise02_1">
     <configuration name="MITx_edX" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +162,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="V03_input-output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python Programming - Introduction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/codes/V03_input-output.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,32 +203,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="codigos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/exercise" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/exercise/codigos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python Programming - Introduction" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -223,20 +225,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise02_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6/exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6/exercise/exercise1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week1/exercise/exercise02_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +246,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.MITx_edX" />
-      <item itemvalue="Python.exercise1" />
-      <item itemvalue="Python.codigos" />
       <item itemvalue="Python.V01_bindings" />
       <item itemvalue="Python.V02_strings" />
       <item itemvalue="Python.exercise01" />
+      <item itemvalue="Python.V03_input-output" />
+      <item itemvalue="Python.exercise02_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise02_1" />
+        <item itemvalue="Python.V03_input-output" />
         <item itemvalue="Python.exercise01" />
         <item itemvalue="Python.V02_strings" />
         <item itemvalue="Python.V01_bindings" />
-        <item itemvalue="Python.codigos" />
-        <item itemvalue="Python.exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +304,8 @@
       <workItem from="1596751001270" duration="417000" />
       <workItem from="1597259042395" duration="4168000" />
       <workItem from="1597263938809" duration="1797000" />
+      <workItem from="1597287256222" duration="86000" />
+      <workItem from="1597346082433" duration="2857000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -418,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597264073225</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="MITx_-_edX">
+      <created>1597287286056</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1597287286056</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,9 +461,10 @@
     </state>
     <state x="1534" y="85" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595460034768" />
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1594846197377" />
-    <state x="542" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597262214216">
+    <state x="542" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597370453265">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="542" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1597370453265" />
     <state x="542" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1597262214216" />
     <state x="509" y="25" key="#exercise5" timestamp="1594847046273">
       <screen x="0" y="0" width="1600" height="860" />
@@ -521,18 +530,19 @@
     <state x="1710" y="134" key="SettingsEditor/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595387248910" />
     <state x="367" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596634971596" />
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597264079321">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1597368773432">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1416" y="163" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877646583" />
     <state x="1672" y="163" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473542264" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597264079321" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597264065709">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1597368773432" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597287297281" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597287289244">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1633" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877637689" />
     <state x="1889" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473531549" />
-    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597264065709" />
+    <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1597287289244" />
     <state x="1721" y="156" width="700" height="530" key="recent.locations.popup" timestamp="1595456047629">
       <screen x="1280" y="0" width="1600" height="860" />
     </state>

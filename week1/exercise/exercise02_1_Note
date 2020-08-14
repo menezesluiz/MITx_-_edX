@@ -1,0 +1,19 @@
+Note: The Python 'in' operator
+The operators in and not in test for collection membership (a 'collection'
+refers to a string, list, tuple or dictionary - don't worry, we will cover
+lists, tuples and dictionaries soon!). The expression
+
+element in coll
+
+evaluates to True if element is a member of the collection coll, and False
+otherwise.
+
+The expression
+
+element not in coll
+
+evaluates to True if element is not a member of the collection coll, and
+False otherwise.
+
+Note this returns the negation of element in coll - that is, the expression
+element not in coll is equivalent to the expression not (element in coll).
