@@ -22,12 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_-_edX">
-      <change afterPath="$PROJECT_DIR$/week1/exercise/exercise-hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/exercise/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/exercise/exercise04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week1/exercise/exercise05.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/exercise/exercise_happy.py" afterDir="false" />
-    </list>
+    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_-_edX" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +123,9 @@
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/codes" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -213,6 +211,9 @@
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -232,6 +233,9 @@
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -315,7 +319,7 @@
       <workItem from="1597462412177" duration="322000" />
       <workItem from="1597462753145" duration="80000" />
       <workItem from="1597673287486" duration="1733000" />
-      <workItem from="1598149581099" duration="1329000" />
+      <workItem from="1598149581099" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -499,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598150312949</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="MITx_-_edX">
+      <created>1598150920349</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1598150920349</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -616,12 +627,12 @@
     <state x="367" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596634971596" />
     <state x="430" y="21" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1597462772687" />
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598150317451">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598150923428">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1416" y="163" key="Vcs.Push.Dialog.v2/0.0.1024.728/1024.0.1600.860@1024.0.1600.860" timestamp="1595877646583" />
     <state x="1672" y="163" key="Vcs.Push.Dialog.v2/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595473542264" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598150317451" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598150923428" />
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1597287297281" />
     <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598150062405">
       <screen x="0" y="0" width="1600" height="860" />
