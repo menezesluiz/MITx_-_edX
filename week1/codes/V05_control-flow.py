@@ -2,7 +2,7 @@
 Vídeo explicando o controle de fluxo em programas
 """
 
-"""
+
 # um exemplo de loop. Fica preso enquanto repete a palavra "right"
 n = input("You are in the Lost Forest. Go left or right? ")
 while n == "right":
@@ -25,7 +25,7 @@ mysum = 0
 for i in range(7, 10):
     mysum += i
 print(mysum)
-"""
+
 
 mysum = 0
 for i in range(5, 11, 2):
@@ -39,4 +39,3 @@ for i in range(5, 11, 2):
     if mysum == 5:
         break
 print(mysum)
-print("O Brasil é o melhor país do mundo!")
