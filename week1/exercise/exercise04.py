@@ -24,6 +24,7 @@ if num > 2:
     num -= 1
 print(num)
 
+
 # write what it prints out, separating what appears on a new line by a comma
 # and a space. So the answer for the above code would be:
 
