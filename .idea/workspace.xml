@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_-_edX" />
+    <list default="true" id="d53a6258-891b-44ff-b15e-194bd3a0e938" name="Default Changelist" comment="MITx_-_edX">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/exercise/exercise04.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/exercise/exercise04.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +86,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -211,9 +214,6 @@
       <module name="Python Programming - Introduction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="C:\Users\engineering_LuizEdua\anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week1/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -321,6 +321,7 @@
       <workItem from="1597673287486" duration="1733000" />
       <workItem from="1598149581099" duration="1640000" />
       <workItem from="1598191027605" duration="299000" />
+      <workItem from="1598547725861" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="Week4">
       <created>1594906445341</created>
@@ -559,10 +560,11 @@
       <screen x="1280" y="0" width="1600" height="860" />
     </state>
     <state x="1818" y="254" key="#Notifications/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595354008865" />
-    <state x="1534" y="85" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595460034768">
-      <screen x="1280" y="0" width="1600" height="860" />
+    <state x="254" y="85" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598547854132">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1534" y="85" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595460034768" />
+    <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547854132" />
     <state x="254" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1594846197377" />
     <state x="542" y="232" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597370453265">
       <screen x="0" y="0" width="1600" height="860" />
@@ -635,12 +637,12 @@
     </state>
     <state x="1660" y="173" key="IDE.errors.dialog/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595355394433" />
     <state x="380" y="173" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1594851237094" />
-    <state x="430" y="21" key="SettingsEditor" timestamp="1597462772687">
+    <state x="430" y="21" key="SettingsEditor" timestamp="1598547828671">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="1710" y="134" key="SettingsEditor/0.0.1280.984/1280.0.1600.860@1280.0.1600.860" timestamp="1595387248910" />
     <state x="367" y="18" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596634971596" />
-    <state x="430" y="21" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1597462772687" />
+    <state x="430" y="21" key="SettingsEditor/0.0.1600.860/1600.0.1280.984@0.0.1600.860" timestamp="1598547828671" />
     <state x="430" y="134" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1595127986123" />
     <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1598191122999">
       <screen x="0" y="0" width="1600" height="860" />
